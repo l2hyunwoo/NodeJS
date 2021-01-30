@@ -125,7 +125,7 @@ const newObject = {
     // 객체의 메서드 정의
     sayJS() {
         console.log('JS');
-    }
+    },
     sayNode,
     // 동적 속성
     [es + 6]: 'Fatastic'
@@ -313,8 +313,7 @@ async function main() {
     return 'zerocho'
 }
 
-main().then((name) =>
-...)
+main().then((name) => name)
 
 // OR
 const name = await main();

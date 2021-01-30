@@ -9,3 +9,10 @@ Node 독수공방 일기 전격 개봉!
 + Node란 무엇인가?
 + 이벤트 기반 프로그래밍과 함수 처리
 + 프로세스/스레드/동기와 비동기
+
+### [2일차](https://github.com/l2hyunwoo/NodeJS/blob/master/document/Chapter2.md) 공부일지
++ ES2015 이후의 JavaScript 문법
++ 비동기 처리
+    + Promise
+    + async/await
+
